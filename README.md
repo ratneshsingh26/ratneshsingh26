@@ -1,5 +1,5 @@
-**Hi there! 🙋‍♂️
-I'm Ratnesh Singh, a tenacious DevOps Engineer from Kanpur, India.
+<head>Hi there! 🙋‍♂️</head>
+<h2>I'm Ratnesh Singh, a tenacious DevOps Engineer from Kanpur, India.</h2>
 
 <p>✨ About Me in 30 Secs ✨</p>
 <h3>👩🏻‍💻 Associate Consultant with KPMG Global Services, Pune, India since September 2022</h3>
