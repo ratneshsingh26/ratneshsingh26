@@ -5,7 +5,7 @@ I'm Ratnesh Singh, a tenacious DevOps Engineer from Kanpur, India.
 <h3>👩🏻‍💻 Associate Consultant with KPMG Global Services, Pune, India since September 2022</h3>
 <p>📊 Working in DevOps technology since October 2020</p>
 <h4>📝 Google Certified Associate Cloud Engineer </h4>
-<h3 style="border:2px>💡 Core Competencies 💡</h3>
+<h3>💡 Core Competencies 💡</h3>
 <p>Hyperscalers: GCP, Azure, AWS </p>
 <p>Languages: YAML, Bash Scripting </p>
 <p>IAC: Terraform </p>
