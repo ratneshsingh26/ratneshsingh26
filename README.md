@@ -5,12 +5,13 @@
 <p>📊 Working in DevOps technology since October 2020</p>
 <h6>📝 Google Certified Associate Cloud Engineer </h6>
 <h5>💡 Core Competencies 💡</h5>
-<p>Hyperscalers: GCP, Azure, AWS </p>
-<p>Languages: YAML, Bash Scripting </p>
-<p>IAC: Terraform </p>
-<p>Configuration management Language:Ansible </p>
-<p>Version Control Tools: Github, Bitbucket, Azure Repository </p>
-<p>CI/ CD Tools: Azure DevOps, Jenkins </p>
+<ul>
+ <li>Hyperscalers: GCP, Azure, AWS </li>
+<li>Languages: YAML, Bash Scripting </li>
+<li>IAC: Terraform </li>
+<li>Configuration management Language:Ansible </li>
+<li>Version Control Tools: Github, Bitbucket, Azure Repository </li>
+<li>CI/ CD Tools: Azure DevOps, Jenkins </p>
 <p><b>⚡️ Currently ⚡️</p></b>
 <ul>
  <li>Brushing up on Salesforce integration using Azure DevOps</li>
