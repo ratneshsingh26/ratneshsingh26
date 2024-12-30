@@ -1,24 +1,52 @@
-<h6>Hi there! 🙋‍♂️</h6>
-<h4>I'm Ratnesh Singh, a tenacious DevOps Engineer</h4>
-<p>✨ About Me in 30 Secs ✨</p>
-<h5>👩🏻‍💻 Associate Consultant with KPMG Global Services, Pune, India since September 2022</h5>
-<p>📊 Working in DevOps technology since October 2020</p>
-<h6>📝 Google Certified Associate Cloud Engineer </h6>
-<h5>💡 Core Competencies 💡</h5>
-<ul>
- <li>Hyperscalers: GCP, Azure, AWS </li>
-<li>Languages: YAML, Bash Scripting </li>
-<li>IAC: Terraform </li>
-<li>Configuration management Language:Ansible </li>
-<li>Version Control Tools: Github, Bitbucket, Azure Repository </li>
-<li>CI/ CD Tools: Azure DevOps, Jenkins </p>
-<p><b>⚡️ Currently ⚡️</p></b>
-<ul>
- <li>Brushing up on Salesforce integration using Azure DevOps</li>
- <li>Creating unmanaged packages in Salesforce</li>
- </ul>
- <p><b>🙌🏻 Connect with Me</p></b>
-<ul>
-  <li><a href="https://www.linkedin.com/in/ratnesh-singh-/">LinkedIn</a></li>
-  <li><a href= "mailto:ratneshsingh3010@gmail.com">Email</a></li>
-</ul>
+<h2 align="center">Hi there! 🙋‍♂️</h2>
+<h3 align="center">I'm Ratnesh Singh, a tenacious DevOps Engineer and Cloud Specialist</h3>
+
+---
+
+### ✨ About Me in 30 Secs ✨
+- 🌟 Former **Associate Consultant** at **KPMG Global Services**, specializing in **DevOps** and **Cloud Infrastructure** since 2020.
+- 🎓 Currently pursuing an **MSc in Business Analytics** at **UCD Michael Smurfit Graduate Business School**.
+- 🏆 Certified in **Terraform (HashiCorp)** and **Google Cloud Platform (GCP)**.
+- 💡 Passionate about building scalable cloud solutions, automating workflows, and solving complex challenges.
+
+---
+
+### 💼 **Core Competencies**
+- **Hyperscalers**: GCP, Azure, AWS  
+- **Languages**: YAML, Bash, Python  
+- **Infrastructure as Code (IAC)**: Terraform  
+- **Configuration Management**: Ansible  
+- **Version Control**: GitHub, Bitbucket, Azure Repository  
+- **CI/CD Tools**: Azure DevOps, Jenkins  
+
+---
+
+### ⚡️ **What I'm Working On**
+- 🛠 Enhancing **Salesforce integration** using **Azure DevOps**.  
+- 🚀 Automating the creation of unmanaged packages in **Salesforce**.
+
+---
+
+### 🌟 **Highlighted Projects**
+1. **[Cloud Infrastructure Automation](https://github.com/ratneshsingh26/project-cloud-automation)**  
+   Automated cloud provisioning using **Terraform** and **Jenkins**, reducing manual tasks by 60%.  
+   *Key Tools*: Terraform, AWS, GCP  
+
+2. **[Song Analysis and Visualization](https://github.com/ratneshsingh26/song-analysis-visualization)**  
+   Engineered a **Python-based tool** for analyzing and visualizing songs with advanced features.  
+   *Key Tools*: Python, NumPy, Pandas, Matplotlib  
+
+3. **[SAP Platform Uptime Optimization](https://github.com/ratneshsingh26/sap-uptime-automation)**  
+   Maintained **99.99% uptime** for SAP platforms by automating patch management.  
+   *Key Tools*: Ansible, Shell Scripting  
+
+---
+
+### 🙌🏻 **Connect with Me**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ratnesh-singh-/)  
+- ✉️ [Email Me](mailto:ratneshsingh3010@gmail.com)  
+- 🌐 [Portfolio Website](#) *(Optional if available)*  
+
+---
+
+<h6 align="center">✨ Let's build something amazing together! ✨</h6>
