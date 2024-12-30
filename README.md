@@ -45,7 +45,7 @@
 ### 🙌🏻 **Connect with Me**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ratnesh-singh-/)  
 - ✉️ [Email Me](mailto:ratneshsingh3010@gmail.com)  
-- 🌐 [Portfolio Website](#) *(Optional if available)*  
+- 🌐 [Portfolio Website](https://ratneshsingh26.github.io/portfolio-website/)  
 
 ---
 
