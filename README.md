@@ -1,6 +1,7 @@
 <h2 align="center">Hi there! 🙋‍♂️</h2>
 <h3 align="center">I'm Ratnesh Singh, a tenacious DevOps Engineer and Cloud Specialist</h3>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="ratnesh-singh-" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ie.linkedin.com/in/ratnesh-singh-?trk=profile-badge">Ratnesh Singh</a></div>
+              
 ---
 
 ### ✨ About Me in 30 Secs ✨
